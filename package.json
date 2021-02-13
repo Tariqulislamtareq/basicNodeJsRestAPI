@@ -1,0 +1,25 @@
+{
+  "name": "basicnodejsrestapi",
+  "version": "1.0.0",
+  "description": "This is simple nodejs restapi application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tariqulislamtareq/basicNodeJsRestAPI.git"
+  },
+  "keywords": [
+    "nodeRestAPI"
+  ],
+  "author": "Tariqul Islam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tariqulislamtareq/basicNodeJsRestAPI/issues"
+  },
+  "homepage": "https://github.com/Tariqulislamtareq/basicNodeJsRestAPI#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
